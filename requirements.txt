@@ -1,0 +1,54 @@
+# DocuFlow AI — Backend Dependencies
+
+# Core Framework
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.4
+pydantic-settings==2.7.1
+python-multipart==0.0.20
+python-dotenv==1.0.1
+
+# Database
+sqlalchemy==2.0.36
+alembic==1.14.1
+
+# PostgreSQL (optional — install if using PostgreSQL)
+# psycopg2-binary==2.9.10
+
+# Authentication
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+bcrypt==4.2.1
+
+# OCR & PDF
+PyMuPDF==1.25.3
+pdfplumber==0.11.4
+pytesseract==0.3.13
+Pillow==11.1.0
+opencv-python-headless==4.10.0.84
+
+# AI / NLP
+# spacy==3.8.4 (optional - commented out for Python 3.14 compatibility)
+# For LLM API calls (optional):
+openai==1.59.5
+httpx==0.28.1
+
+# Email
+aiosmtplib==3.0.2
+
+# Integrations
+requests==2.32.3
+gspread==6.1.4
+google-auth==2.37.0
+
+# Logging & Utils
+loguru==0.7.3
+aiofiles==24.1.0
+
+# Testing
+pytest==8.3.4
+pytest-asyncio==0.25.0
+httpx==0.28.1
+
+# CORS
+# (included in FastAPI/Starlette)

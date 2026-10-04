@@ -1,133 +1,163 @@
-2026-09-25 16:23:18 | INFO     | app.services.ocr_service:extract_text:21 | Starting text extraction: 1790312634_d02e51405d0d.pdf (type: pdf)
-2026-09-25 16:23:18 | INFO     | app.services.ocr_service:extract_text:38 | Text extraction complete: 712 characters extracted
-2026-09-25 16:23:18 | INFO     | app.services.ocr_service:extract_text:21 | Starting text extraction: 1790312634_d02e51405d0d.pdf (type: pdf)
-2026-09-25 16:23:18 | INFO     | app.services.ocr_service:extract_text:38 | Text extraction complete: 712 characters extracted
-2026-09-25 16:23:18 | INFO     | app.services.document_classifier:classify_document:14 | Starting document classification
-2026-09-25 16:23:18 | INFO     | app.services.document_classifier:classify_document:26 | Document classified as: invoice
-2026-09-25 16:23:18 | INFO     | app.services.document_classifier:classify_document:14 | Starting document classification
-2026-09-25 16:23:18 | INFO     | app.services.document_classifier:classify_document:26 | Document classified as: invoice
-2026-09-25 16:23:18 | INFO     | app.services.extraction_service:extract_fields:18 | Extracting fields for document type: invoice
-2026-09-25 16:23:18 | INFO     | app.services.ocr_service:extract_text:21 | Starting text extraction: 1790312657_1d96067647e2.pdf (type: pdf)
-2026-09-25 16:23:18 | INFO     | app.services.ocr_service:extract_text:38 | Text extraction complete: 560 characters extracted
-2026-09-25 16:23:18 | INFO     | app.services.ocr_service:extract_text:21 | Starting text extraction: 1790312657_1d96067647e2.pdf (type: pdf)
-2026-09-25 16:23:18 | INFO     | app.services.ocr_service:extract_text:38 | Text extraction complete: 560 characters extracted
-2026-09-25 16:23:18 | INFO     | app.services.document_classifier:classify_document:14 | Starting document classification
-2026-09-25 16:23:18 | INFO     | app.services.document_classifier:classify_document:26 | Document classified as: invoice
-2026-09-25 16:23:18 | INFO     | app.services.document_classifier:classify_document:14 | Starting document classification
-2026-09-25 16:23:18 | INFO     | app.services.document_classifier:classify_document:26 | Document classified as: invoice
-2026-09-25 16:23:18 | INFO     | app.services.extraction_service:extract_fields:18 | Extracting fields for document type: invoice
-2026-09-25 16:23:18 | INFO     | app.services.ocr_service:extract_text:21 | Starting text extraction: 1790312690_cd0a3208ff6f.pdf (type: pdf)
-2026-09-25 16:23:18 | INFO     | app.services.ocr_service:extract_text:38 | Text extraction complete: 369 characters extracted
-2026-09-25 16:23:18 | INFO     | app.services.ocr_service:extract_text:21 | Starting text extraction: 1790312690_cd0a3208ff6f.pdf (type: pdf)
-2026-09-25 16:23:18 | INFO     | app.services.ocr_service:extract_text:38 | Text extraction complete: 369 characters extracted
-2026-09-25 16:23:18 | INFO     | app.services.document_classifier:classify_document:14 | Starting document classification
-2026-09-25 16:23:18 | INFO     | app.services.document_classifier:classify_document:26 | Document classified as: receipt
-2026-09-25 16:23:18 | INFO     | app.services.document_classifier:classify_document:14 | Starting document classification
-2026-09-25 16:23:18 | INFO     | app.services.document_classifier:classify_document:26 | Document classified as: receipt
-2026-09-25 16:23:18 | INFO     | app.services.extraction_service:extract_fields:18 | Extracting fields for document type: receipt
-2026-09-25 16:23:18 | INFO     | app.services.ocr_service:extract_text:21 | Starting text extraction: 1790312704_677a9e6fc83a.pdf (type: pdf)
-2026-09-25 16:23:18 | INFO     | app.services.ocr_service:extract_text:38 | Text extraction complete: 934 characters extracted
-2026-09-25 16:23:18 | INFO     | app.services.ocr_service:extract_text:21 | Starting text extraction: 1790312704_677a9e6fc83a.pdf (type: pdf)
-2026-09-25 16:23:18 | INFO     | app.services.ocr_service:extract_text:38 | Text extraction complete: 934 characters extracted
-2026-09-25 16:23:18 | INFO     | app.services.document_classifier:classify_document:14 | Starting document classification
-2026-09-25 16:23:18 | INFO     | app.services.document_classifier:classify_document:26 | Document classified as: kyc
-2026-09-25 16:23:18 | INFO     | app.services.document_classifier:classify_document:14 | Starting document classification
-2026-09-25 16:23:18 | INFO     | app.services.document_classifier:classify_document:26 | Document classified as: kyc
-2026-09-25 16:23:18 | INFO     | app.services.extraction_service:extract_fields:18 | Extracting fields for document type: kyc
-2026-09-25 16:23:18 | INFO     | app.services.ocr_service:extract_text:21 | Starting text extraction: 1790312719_cc274c1bb860.pdf (type: pdf)
-2026-09-25 16:23:18 | INFO     | app.services.ocr_service:extract_text:38 | Text extraction complete: 1004 characters extracted
-2026-09-25 16:23:18 | INFO     | app.services.ocr_service:extract_text:21 | Starting text extraction: 1790312719_cc274c1bb860.pdf (type: pdf)
-2026-09-25 16:23:18 | INFO     | app.services.ocr_service:extract_text:38 | Text extraction complete: 1004 characters extracted
-2026-09-25 16:23:18 | INFO     | app.services.document_classifier:classify_document:14 | Starting document classification
-2026-09-25 16:23:18 | INFO     | app.services.document_classifier:classify_document:26 | Document classified as: resume
-2026-09-25 16:23:18 | INFO     | app.services.document_classifier:classify_document:14 | Starting document classification
-2026-09-25 16:23:18 | INFO     | app.services.document_classifier:classify_document:26 | Document classified as: resume
-2026-09-25 16:23:18 | INFO     | app.services.extraction_service:extract_fields:18 | Extracting fields for document type: resume
-2026-09-25 16:28:03 | INFO     | app.services.ocr_service:extract_text:42 | Starting text extraction: 1790312634_d02e51405d0d.pdf (type: pdf)
-2026-09-25 16:28:03 | INFO     | app.services.ocr_service:extract_text:82 | Text extraction complete: 711 characters extracted
-2026-09-25 16:28:03 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
-2026-09-25 16:28:03 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: invoice
-2026-09-25 16:28:03 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
-2026-09-25 16:28:03 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: invoice
-2026-09-25 16:28:03 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: invoice
-2026-09-25 16:28:03 | INFO     | app.services.ocr_service:extract_text:42 | Starting text extraction: 1790312657_1d96067647e2.pdf (type: pdf)
-2026-09-25 16:28:03 | INFO     | app.services.ocr_service:extract_text:82 | Text extraction complete: 559 characters extracted
-2026-09-25 16:28:03 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
-2026-09-25 16:28:03 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: invoice
-2026-09-25 16:28:03 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
-2026-09-25 16:28:03 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: invoice
-2026-09-25 16:28:03 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: invoice
-2026-09-25 16:28:03 | INFO     | app.services.ocr_service:extract_text:42 | Starting text extraction: 1790312690_cd0a3208ff6f.pdf (type: pdf)
-2026-09-25 16:28:03 | INFO     | app.services.ocr_service:extract_text:82 | Text extraction complete: 368 characters extracted
-2026-09-25 16:28:03 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
-2026-09-25 16:28:03 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: receipt
-2026-09-25 16:28:03 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
-2026-09-25 16:28:03 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: receipt
-2026-09-25 16:28:03 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: receipt
-2026-09-25 16:28:03 | INFO     | app.services.ocr_service:extract_text:42 | Starting text extraction: 1790312704_677a9e6fc83a.pdf (type: pdf)
-2026-09-25 16:28:03 | INFO     | app.services.ocr_service:extract_text:82 | Text extraction complete: 933 characters extracted
-2026-09-25 16:28:03 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
-2026-09-25 16:28:03 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: kyc
-2026-09-25 16:28:03 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
-2026-09-25 16:28:03 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: kyc
-2026-09-25 16:28:03 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: kyc
-2026-09-25 16:28:03 | INFO     | app.services.ocr_service:extract_text:42 | Starting text extraction: 1790312719_cc274c1bb860.pdf (type: pdf)
-2026-09-25 16:28:03 | INFO     | app.services.ocr_service:extract_text:82 | Text extraction complete: 1003 characters extracted
-2026-09-25 16:28:03 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
-2026-09-25 16:28:03 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: resume
-2026-09-25 16:28:03 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
-2026-09-25 16:28:03 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: resume
-2026-09-25 16:28:03 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: resume
-2026-09-25 16:29:00 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: kyc
-2026-09-25 16:29:00 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: resume
-2026-09-25 16:29:51 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: kyc
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: unknown
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: unknown
-2026-09-25 16:30:03 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: unknown
-2026-09-25 16:30:03 | WARNING  | app.services.extraction_service:extract_fields:167 | Unknown document type for extraction: unknown
-2026-09-25 16:30:03 | INFO     | app.services.ocr_service:extract_text:42 | Starting text extraction: 1790312634_d02e51405d0d.pdf (type: pdf)
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: invoice
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: invoice
-2026-09-25 16:30:03 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: invoice
-2026-09-25 16:30:03 | INFO     | app.services.ocr_service:extract_text:82 | Text extraction complete: 711 characters extracted
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: invoice
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: invoice
-2026-09-25 16:30:03 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: invoice
-2026-09-25 16:30:03 | INFO     | app.services.ocr_service:extract_text:42 | Starting text extraction: 1790312657_1d96067647e2.pdf (type: pdf)
-2026-09-25 16:30:03 | INFO     | app.services.ocr_service:extract_text:82 | Text extraction complete: 559 characters extracted
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: invoice
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: invoice
-2026-09-25 16:30:03 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: invoice
-2026-09-25 16:30:03 | INFO     | app.services.ocr_service:extract_text:42 | Starting text extraction: 1790312690_cd0a3208ff6f.pdf (type: pdf)
-2026-09-25 16:30:03 | INFO     | app.services.ocr_service:extract_text:82 | Text extraction complete: 368 characters extracted
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: receipt
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: receipt
-2026-09-25 16:30:03 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: receipt
-2026-09-25 16:30:03 | INFO     | app.services.ocr_service:extract_text:42 | Starting text extraction: 1790312704_677a9e6fc83a.pdf (type: pdf)
-2026-09-25 16:30:03 | INFO     | app.services.ocr_service:extract_text:82 | Text extraction complete: 933 characters extracted
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: kyc
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: kyc
-2026-09-25 16:30:03 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: kyc
-2026-09-25 16:30:03 | INFO     | app.services.ocr_service:extract_text:42 | Starting text extraction: 1790312719_cc274c1bb860.pdf (type: pdf)
-2026-09-25 16:30:03 | INFO     | app.services.ocr_service:extract_text:82 | Text extraction complete: 1003 characters extracted
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: resume
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
-2026-09-25 16:30:03 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: resume
-2026-09-25 16:30:03 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: resume
-2026-09-25 16:34:15 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: invoice
-2026-09-25 16:34:15 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: resume
-2026-09-25 16:34:15 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: kyc
-2026-09-25 16:34:15 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: receipt
+2026-09-25 10:19:51 | INFO     | app.main:startup_event:49 | Starting DocuFlow AI (Env: development)
+2026-09-25 10:19:51 | WARNING  | app.main:startup_event:51 | DEMO MODE IS ENABLED. Simulated processing will be used.
+2026-09-25 10:33:54 | INFO     | app.services.ocr_service:extract_text:21 | Starting text extraction: 1790312634_d02e51405d0d.pdf (type: pdf)
+2026-09-25 10:33:54 | INFO     | app.services.document_classifier:classify_document:14 | Starting document classification
+2026-09-25 10:33:54 | INFO     | app.services.extraction_service:extract_fields:18 | Extracting fields for document type: unknown
+2026-09-25 10:33:54 | WARNING  | app.services.extraction_service:extract_fields:31 | Unknown document type for extraction: unknown
+2026-09-25 10:33:54 | INFO     | app.services.workflow_service:run_workflows:77 | Running workflows for document 1
+2026-09-25 10:34:17 | INFO     | app.services.ocr_service:extract_text:21 | Starting text extraction: 1790312657_1d96067647e2.pdf (type: pdf)
+2026-09-25 10:34:17 | INFO     | app.services.document_classifier:classify_document:14 | Starting document classification
+2026-09-25 10:34:17 | INFO     | app.services.extraction_service:extract_fields:18 | Extracting fields for document type: unknown
+2026-09-25 10:34:17 | WARNING  | app.services.extraction_service:extract_fields:31 | Unknown document type for extraction: unknown
+2026-09-25 10:34:17 | INFO     | app.services.workflow_service:run_workflows:77 | Running workflows for document 2
+2026-09-25 10:34:50 | INFO     | app.services.ocr_service:extract_text:21 | Starting text extraction: 1790312690_cd0a3208ff6f.pdf (type: pdf)
+2026-09-25 10:34:50 | INFO     | app.services.document_classifier:classify_document:14 | Starting document classification
+2026-09-25 10:34:50 | INFO     | app.services.extraction_service:extract_fields:18 | Extracting fields for document type: unknown
+2026-09-25 10:34:50 | WARNING  | app.services.extraction_service:extract_fields:31 | Unknown document type for extraction: unknown
+2026-09-25 10:34:50 | INFO     | app.services.workflow_service:run_workflows:77 | Running workflows for document 3
+2026-09-25 10:35:04 | INFO     | app.services.ocr_service:extract_text:21 | Starting text extraction: 1790312704_677a9e6fc83a.pdf (type: pdf)
+2026-09-25 10:35:04 | INFO     | app.services.document_classifier:classify_document:14 | Starting document classification
+2026-09-25 10:35:04 | INFO     | app.services.extraction_service:extract_fields:18 | Extracting fields for document type: unknown
+2026-09-25 10:35:04 | WARNING  | app.services.extraction_service:extract_fields:31 | Unknown document type for extraction: unknown
+2026-09-25 10:35:04 | INFO     | app.services.workflow_service:run_workflows:77 | Running workflows for document 4
+2026-09-25 10:35:19 | INFO     | app.services.ocr_service:extract_text:21 | Starting text extraction: 1790312719_cc274c1bb860.pdf (type: pdf)
+2026-09-25 10:35:19 | INFO     | app.services.document_classifier:classify_document:14 | Starting document classification
+2026-09-25 10:35:19 | INFO     | app.services.extraction_service:extract_fields:18 | Extracting fields for document type: unknown
+2026-09-25 10:35:19 | WARNING  | app.services.extraction_service:extract_fields:31 | Unknown document type for extraction: unknown
+2026-09-25 10:35:19 | INFO     | app.services.workflow_service:run_workflows:77 | Running workflows for document 5
+2026-09-25 10:36:13 | INFO     | app.services.ocr_service:extract_text:21 | Starting text extraction: 1790312773_6a9a4818b83b.pdf (type: pdf)
+2026-09-25 10:36:13 | INFO     | app.services.document_classifier:classify_document:14 | Starting document classification
+2026-09-25 10:36:13 | INFO     | app.services.extraction_service:extract_fields:18 | Extracting fields for document type: unknown
+2026-09-25 10:36:13 | WARNING  | app.services.extraction_service:extract_fields:31 | Unknown document type for extraction: unknown
+2026-09-25 10:36:13 | INFO     | app.services.workflow_service:run_workflows:77 | Running workflows for document 6
+2026-09-25 16:30:34 | INFO     | app.main:startup_event:49 | Starting DocuFlow AI (Env: development)
+2026-09-25 16:30:56 | INFO     | app.services.ocr_service:extract_text:42 | Starting text extraction: 1790334056_33f71a262b69.pdf (type: pdf)
+2026-09-25 16:30:56 | INFO     | app.services.ocr_service:extract_text:82 | Text extraction complete: 711 characters extracted
+2026-09-25 16:30:56 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
+2026-09-25 16:30:56 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: invoice
+2026-09-25 16:30:56 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: invoice
+2026-09-25 16:30:56 | INFO     | app.services.workflow_service:run_workflows:77 | Running workflows for document 6
+2026-09-25 16:30:56 | INFO     | app.services.workflow_service:run_workflows:89 | Evaluating workflow: Invoice High Value Notification
+2026-09-25 16:30:56 | INFO     | app.services.workflow_service:run_workflows:122 | Conditions not met for workflow Invoice High Value Notification.
+2026-09-25 16:32:17 | INFO     | app.main:startup_event:49 | Starting DocuFlow AI (Env: development)
+2026-09-25 16:33:35 | INFO     | app.services.ocr_service:extract_text:42 | Starting text extraction: 1790312634_d02e51405d0d.pdf (type: pdf)
+2026-09-25 16:33:36 | INFO     | app.services.ocr_service:extract_text:82 | Text extraction complete: 711 characters extracted
+2026-09-25 16:33:36 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
+2026-09-25 16:33:36 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: invoice
+2026-09-25 16:33:36 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: invoice
+2026-09-25 16:33:36 | INFO     | app.services.workflow_service:run_workflows:77 | Running workflows for document 1
+2026-09-25 16:33:36 | INFO     | app.services.workflow_service:run_workflows:89 | Evaluating workflow: Invoice High Value Notification
+2026-09-25 16:33:36 | INFO     | app.services.workflow_service:run_workflows:122 | Conditions not met for workflow Invoice High Value Notification.
+2026-09-25 16:33:36 | INFO     | app.services.ocr_service:extract_text:42 | Starting text extraction: 1790312657_1d96067647e2.pdf (type: pdf)
+2026-09-25 16:33:36 | INFO     | app.services.ocr_service:extract_text:82 | Text extraction complete: 559 characters extracted
+2026-09-25 16:33:36 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
+2026-09-25 16:33:36 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: invoice
+2026-09-25 16:33:36 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: invoice
+2026-09-25 16:33:36 | INFO     | app.services.workflow_service:run_workflows:77 | Running workflows for document 2
+2026-09-25 16:33:36 | INFO     | app.services.workflow_service:run_workflows:89 | Evaluating workflow: Invoice High Value Notification
+2026-09-25 16:33:36 | INFO     | app.services.workflow_service:run_workflows:122 | Conditions not met for workflow Invoice High Value Notification.
+2026-09-25 16:33:36 | INFO     | app.services.ocr_service:extract_text:42 | Starting text extraction: 1790312690_cd0a3208ff6f.pdf (type: pdf)
+2026-09-25 16:33:36 | INFO     | app.services.ocr_service:extract_text:82 | Text extraction complete: 368 characters extracted
+2026-09-25 16:33:36 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
+2026-09-25 16:33:36 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: receipt
+2026-09-25 16:33:36 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: receipt
+2026-09-25 16:33:36 | INFO     | app.services.workflow_service:run_workflows:77 | Running workflows for document 3
+2026-09-25 16:33:36 | INFO     | app.services.ocr_service:extract_text:42 | Starting text extraction: 1790312704_677a9e6fc83a.pdf (type: pdf)
+2026-09-25 16:33:36 | INFO     | app.services.ocr_service:extract_text:82 | Text extraction complete: 933 characters extracted
+2026-09-25 16:33:36 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
+2026-09-25 16:33:36 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: kyc
+2026-09-25 16:33:36 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: kyc
+2026-09-25 16:33:36 | INFO     | app.services.workflow_service:run_workflows:77 | Running workflows for document 4
+2026-09-25 16:33:36 | INFO     | app.services.workflow_service:run_workflows:89 | Evaluating workflow: Flag High Risk KYC
+2026-09-25 16:33:36 | INFO     | app.services.workflow_service:run_workflows:99 | Conditions met for workflow Flag High Risk KYC. Executing actions.
+2026-09-25 16:33:36 | INFO     | app.services.workflow_service:_execute_action:55 | Executing workflow action: email for document 4
+2026-09-25 16:33:36 | INFO     | app.services.ocr_service:extract_text:42 | Starting text extraction: 1790312719_cc274c1bb860.pdf (type: pdf)
+2026-09-25 16:33:36 | INFO     | app.services.ocr_service:extract_text:82 | Text extraction complete: 1003 characters extracted
+2026-09-25 16:33:36 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
+2026-09-25 16:33:36 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: resume
+2026-09-25 16:33:36 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: resume
+2026-09-25 16:33:36 | INFO     | app.services.workflow_service:run_workflows:77 | Running workflows for document 5
+2026-09-25 16:33:36 | INFO     | app.services.workflow_service:run_workflows:89 | Evaluating workflow: Extract Candidate Info
+2026-09-25 16:33:36 | INFO     | app.services.workflow_service:run_workflows:99 | Conditions met for workflow Extract Candidate Info. Executing actions.
+2026-09-25 16:33:36 | INFO     | app.services.workflow_service:_execute_action:55 | Executing workflow action: database for document 5
+2026-09-25 16:33:36 | INFO     | app.services.workflow_service:_execute_action:55 | Executing workflow action: google_sheets for document 5
+2026-09-25 16:38:29 | INFO     | app.services.ocr_service:extract_text:47 | Starting text extraction: 1790312634_d02e51405d0d.pdf (type: pdf)
+2026-09-25 16:38:29 | INFO     | app.services.ocr_service:extract_text:47 | Starting text extraction: 1790312634_d02e51405d0d.pdf (type: pdf)
+2026-09-25 16:38:29 | INFO     | app.services.ocr_service:extract_text:87 | Text extraction complete: 711 characters extracted
+2026-09-25 16:38:29 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
+2026-09-25 16:38:29 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: invoice
+2026-09-25 16:38:29 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: invoice
+2026-09-25 16:38:46 | INFO     | app.services.ocr_service:extract_text:47 | Starting text extraction: 1790312634_d02e51405d0d.pdf (type: pdf)
+2026-09-25 16:38:46 | INFO     | app.services.ocr_service:extract_text:87 | Text extraction complete: 711 characters extracted
+2026-09-25 16:38:46 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
+2026-09-25 16:38:46 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: invoice
+2026-09-25 16:38:46 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: invoice
+2026-09-25 16:39:26 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: unknown
+2026-09-25 16:39:26 | WARNING  | app.services.extraction_service:extract_fields:167 | Unknown document type for extraction: unknown
+2026-09-25 16:39:36 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: unknown
+2026-09-25 16:39:36 | WARNING  | app.services.extraction_service:extract_fields:167 | Unknown document type for extraction: unknown
+2026-09-25 16:39:47 | INFO     | app.main:startup_event:53 | Starting DocuFlow AI (Env: development)
+2026-09-25 16:40:05 | INFO     | app.services.ocr_service:extract_text:47 | Starting text extraction: 1790334605_b32da616ad2e.pdf (type: pdf)
+2026-09-25 16:40:05 | INFO     | app.services.ocr_service:extract_text:87 | Text extraction complete: 711 characters extracted
+2026-09-25 16:40:05 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
+2026-09-25 16:40:05 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: invoice
+2026-09-25 16:40:05 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: invoice
+2026-09-25 16:40:05 | INFO     | app.services.workflow_service:run_workflows:77 | Running workflows for document 6
+2026-09-25 16:40:05 | INFO     | app.services.workflow_service:run_workflows:89 | Evaluating workflow: Invoice High Value Notification
+2026-09-25 16:40:05 | INFO     | app.services.workflow_service:run_workflows:122 | Conditions not met for workflow Invoice High Value Notification.
+2026-09-25 16:43:48 | INFO     | app.main:startup_event:53 | Starting DocuFlow AI (Env: development)
+2026-09-25 16:44:17 | INFO     | app.services.ocr_service:extract_text:47 | Starting text extraction: 1790334857_80aad32eaf77.pdf (type: pdf)
+2026-09-25 16:44:18 | ERROR    | app.services.ocr_service:extract_text:91 | Text extraction failed: no such file: 'C:\Users\FINSTART\.gemini\antigravity-ide\scratch\DocuFlow-AI\backend\uploads\1790334857_80aad32eaf77.pdf'
+2026-09-25 16:44:18 | ERROR    | app.routes.documents:_process_document:103 | Document processing failed: no such file: 'C:\Users\FINSTART\.gemini\antigravity-ide\scratch\DocuFlow-AI\backend\uploads\1790334857_80aad32eaf77.pdf'
+2026-09-25 16:44:30 | INFO     | app.services.ocr_service:extract_text:47 | Starting text extraction: 1790334870_25cae8c6c08a.pdf (type: pdf)
+2026-09-25 16:44:30 | INFO     | app.services.ocr_service:extract_text:87 | Text extraction complete: 711 characters extracted
+2026-09-25 16:44:30 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
+2026-09-25 16:44:30 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: invoice
+2026-09-25 16:44:30 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: invoice
+2026-09-25 16:44:31 | INFO     | app.services.workflow_service:run_workflows:77 | Running workflows for document 6
+2026-09-25 16:44:31 | INFO     | app.services.workflow_service:run_workflows:89 | Evaluating workflow: Invoice High Value Notification
+2026-09-25 16:44:31 | INFO     | app.services.workflow_service:run_workflows:122 | Conditions not met for workflow Invoice High Value Notification.
+2026-09-25 16:45:13 | INFO     | app.services.ocr_service:extract_text:47 | Starting text extraction: 1790334913_2aa56dd23141.pdf (type: pdf)
+2026-09-25 16:45:13 | WARNING  | app.services.ocr_service:extract_text:67 | No embedded text found in 1790334913_2aa56dd23141.pdf, attempting OCR fallback
+2026-09-25 16:45:13 | WARNING  | app.services.ocr_service:_configured_tesseract:190 | Tesseract OCR was not found on PATH. Set TESSERACT_CMD to the full tesseract.exe path to process image/scanned documents.
+2026-09-25 16:45:13 | ERROR    | app.services.ocr_service:extract_text:91 | Text extraction failed: The PDF has no embedded text and Tesseract OCR could not read it. Install Tesseract or upload a text-based PDF.
+2026-09-25 16:45:13 | ERROR    | app.routes.documents:_process_document:103 | Document processing failed: The PDF has no embedded text and Tesseract OCR could not read it. Install Tesseract or upload a text-based PDF.
+2026-09-25 16:46:33 | INFO     | app.main:startup_event:53 | Starting DocuFlow AI (Env: development)
+2026-09-25 16:47:05 | INFO     | app.services.ocr_service:extract_text:47 | Starting text extraction: 1790335025_5c396f3e616f.pdf (type: pdf)
+2026-09-25 16:47:05 | INFO     | app.services.ocr_service:extract_text:87 | Text extraction complete: 711 characters extracted
+2026-09-25 16:47:05 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
+2026-09-25 16:47:05 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: invoice
+2026-09-25 16:47:05 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: invoice
+2026-09-25 16:47:05 | INFO     | app.services.workflow_service:run_workflows:77 | Running workflows for document 6
+2026-09-25 16:47:05 | INFO     | app.services.workflow_service:run_workflows:89 | Evaluating workflow: Invoice High Value Notification
+2026-09-25 16:47:05 | INFO     | app.services.workflow_service:run_workflows:122 | Conditions not met for workflow Invoice High Value Notification.
+2026-09-25 16:50:17 | INFO     | app.services.ocr_service:extract_text:47 | Starting text extraction: 1790335217_b1c37e2d617d.pdf (type: pdf)
+2026-09-25 16:50:19 | INFO     | app.services.ocr_service:extract_text:87 | Text extraction complete: 1465 characters extracted
+2026-09-25 16:50:19 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
+2026-09-25 16:50:19 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: resume
+2026-09-25 16:50:19 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: resume
+2026-09-25 16:50:19 | INFO     | app.services.workflow_service:run_workflows:77 | Running workflows for document 6
+2026-09-25 16:50:19 | INFO     | app.services.workflow_service:run_workflows:89 | Evaluating workflow: Extract Candidate Info
+2026-09-25 16:50:19 | INFO     | app.services.workflow_service:run_workflows:99 | Conditions met for workflow Extract Candidate Info. Executing actions.
+2026-09-25 16:50:19 | INFO     | app.services.workflow_service:_execute_action:55 | Executing workflow action: database for document 6
+2026-09-25 16:50:19 | INFO     | app.services.workflow_service:_execute_action:55 | Executing workflow action: google_sheets for document 6
+2026-09-25 16:50:32 | INFO     | app.services.ocr_service:extract_text:47 | Starting text extraction: 1790335232_c5c3b15921c5.pdf (type: pdf)
+2026-09-25 16:50:32 | INFO     | app.services.ocr_service:extract_text:87 | Text extraction complete: 1417 characters extracted
+2026-09-25 16:50:32 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
+2026-09-25 16:50:32 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: resume
+2026-09-25 16:50:32 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: resume
+2026-09-25 16:50:32 | INFO     | app.services.workflow_service:run_workflows:77 | Running workflows for document 7
+2026-09-25 16:50:32 | INFO     | app.services.workflow_service:run_workflows:89 | Evaluating workflow: Extract Candidate Info
+2026-09-25 16:50:32 | INFO     | app.services.workflow_service:run_workflows:99 | Conditions met for workflow Extract Candidate Info. Executing actions.
+2026-09-25 16:50:32 | INFO     | app.services.workflow_service:_execute_action:55 | Executing workflow action: database for document 7
+2026-09-25 16:50:32 | INFO     | app.services.workflow_service:_execute_action:55 | Executing workflow action: google_sheets for document 7
+2026-09-25 16:52:31 | INFO     | app.services.ocr_service:extract_text:47 | Starting text extraction: 1790335351_8b68ec7d171d.pdf (type: pdf)
+2026-09-25 16:52:31 | INFO     | app.services.ocr_service:extract_text:87 | Text extraction complete: 900 characters extracted
+2026-09-25 16:52:31 | INFO     | app.services.document_classifier:classify_document:16 | Starting document classification
+2026-09-25 16:52:31 | INFO     | app.services.document_classifier:classify_document:77 | Document classified as: kyc
+2026-09-25 16:52:31 | INFO     | app.services.extraction_service:extract_fields:155 | Extracting fields for document type: kyc
+2026-09-25 16:52:31 | INFO     | app.services.workflow_service:run_workflows:77 | Running workflows for document 8
+2026-09-25 16:52:31 | INFO     | app.services.workflow_service:run_workflows:89 | Evaluating workflow: Flag High Risk KYC
+2026-09-25 16:52:31 | INFO     | app.services.workflow_service:run_workflows:99 | Conditions met for workflow Flag High Risk KYC. Executing actions.
+2026-09-25 16:52:31 | INFO     | app.services.workflow_service:_execute_action:55 | Executing workflow action: email for document 8
+2026-09-30 14:33:50 | INFO     | app.main:startup_event:53 | Starting DocuFlow AI (Env: development)
